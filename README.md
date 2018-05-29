@@ -1,4 +1,4 @@
-# leajs-
+# leajs-eventsource
 
 Plugin of [leajs](https://github.com/lea-js/leajs-server).
 
